@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-05-26T19:50:48 IST" name="Default suite" finished-at="2025-05-26T19:51:20 IST" duration-ms="31984">
+  <suite started-at="2025-05-27T17:05:06 IST" name="Default suite" finished-at="2025-05-27T17:05:15 IST" duration-ms="9775">
     <groups>
     </groups>
-    <test started-at="2025-05-26T19:50:48 IST" name="Default test" finished-at="2025-05-26T19:51:20 IST" duration-ms="31984">
-      <class name="tests.GUIElementsTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:tests.GUIElementsTest@1e800aaa]" started-at="2025-05-26T19:50:48 IST" name="setup" finished-at="2025-05-26T19:50:58 IST" duration-ms="10548" status="PASS">
+    <test started-at="2025-05-27T17:05:06 IST" name="Default test" finished-at="2025-05-27T17:05:15 IST" duration-ms="9775">
+      <class name="tests.FileUploadTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.FileUploadTest@5bda8e08]" started-at="2025-05-27T17:05:06 IST" name="setup" finished-at="2025-05-27T17:05:12 IST" duration-ms="5993" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="GUIElementsSubmission()[pri:0, instance:tests.GUIElementsTest@1e800aaa]" started-at="2025-05-26T19:50:58 IST" name="GUIElementsSubmission" finished-at="2025-05-26T19:51:16 IST" duration-ms="17839" status="PASS">
+        <test-method signature="Singlefileuploading()[pri:0, instance:tests.FileUploadTest@5bda8e08]" started-at="2025-05-27T17:05:12 IST" name="Singlefileuploading" finished-at="2025-05-27T17:05:12 IST" duration-ms="324" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- GUIElementsSubmission -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.GUIElementsTest@1e800aaa]" started-at="2025-05-26T19:51:16 IST" name="teardown" finished-at="2025-05-26T19:51:20 IST" duration-ms="3538" status="PASS">
+        </test-method> <!-- Singlefileuploading -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.FileUploadTest@5bda8e08]" started-at="2025-05-27T17:05:12 IST" name="teardown" finished-at="2025-05-27T17:05:15 IST" duration-ms="3415" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- tests.GUIElementsTest -->
+      </class> <!-- tests.FileUploadTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

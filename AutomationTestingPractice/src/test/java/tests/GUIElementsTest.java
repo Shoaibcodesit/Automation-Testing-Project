@@ -10,7 +10,6 @@ public class GUIElementsTest extends BaseTest {
 	@Test
 	public void GUIElementsSubmission() throws InterruptedException
 	{
-		driver.get("https://testautomationpractice.blogspot.com/");
 		
 		GUIElementsPage guielementspage = new GUIElementsPage(driver);
 		
