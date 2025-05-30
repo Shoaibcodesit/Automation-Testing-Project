@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-05-27T17:05:06 IST" name="Default suite" finished-at="2025-05-27T17:05:15 IST" duration-ms="9775">
+  <suite started-at="2025-05-29T17:21:53 IST" name="Default suite" finished-at="2025-05-29T17:22:04 IST" duration-ms="10798">
     <groups>
     </groups>
-    <test started-at="2025-05-27T17:05:06 IST" name="Default test" finished-at="2025-05-27T17:05:15 IST" duration-ms="9775">
-      <class name="tests.FileUploadTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:tests.FileUploadTest@5bda8e08]" started-at="2025-05-27T17:05:06 IST" name="setup" finished-at="2025-05-27T17:05:12 IST" duration-ms="5993" status="PASS">
+    <test started-at="2025-05-29T17:21:53 IST" name="Default test" finished-at="2025-05-29T17:22:04 IST" duration-ms="10798">
+      <class name="tests.StaticTableTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.StaticTableTest@5bda8e08]" started-at="2025-05-29T17:21:53 IST" name="setup" finished-at="2025-05-29T17:21:59 IST" duration-ms="6348" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Singlefileuploading()[pri:0, instance:tests.FileUploadTest@5bda8e08]" started-at="2025-05-27T17:05:12 IST" name="Singlefileuploading" finished-at="2025-05-27T17:05:12 IST" duration-ms="324" status="PASS">
+        <test-method signature="StaticTabledata()[pri:0, instance:tests.StaticTableTest@5bda8e08]" started-at="2025-05-29T17:21:59 IST" name="StaticTabledata" finished-at="2025-05-29T17:22:00 IST" duration-ms="875" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Singlefileuploading -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.FileUploadTest@5bda8e08]" started-at="2025-05-27T17:05:12 IST" name="teardown" finished-at="2025-05-27T17:05:15 IST" duration-ms="3415" status="PASS">
+        </test-method> <!-- StaticTabledata -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.StaticTableTest@5bda8e08]" started-at="2025-05-29T17:22:00 IST" name="teardown" finished-at="2025-05-29T17:22:04 IST" duration-ms="3513" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- tests.FileUploadTest -->
+      </class> <!-- tests.StaticTableTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
